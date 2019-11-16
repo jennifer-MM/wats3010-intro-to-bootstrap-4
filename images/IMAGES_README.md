@@ -20,3 +20,5 @@ Placeholder for image documents.
   <!--No-attribution (photo-of-a-todder 700x450 -->
   <!--Photo by Nghia Trinh from Pexels (man-in-grey 1900x1080)>
   <!-- Photo by Katarzyna Dzierżyńska from Pexels Man-and-woman 700x350>
+
+  <link rel="shortcut icon" href="favicon.png" type="image/x-icon"> 
