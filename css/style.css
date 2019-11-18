@@ -1,5 +1,23 @@
 /* Site Styles Go Here */
 
+.navbar a:hover{
+    background-color: hotpink; 
+}
+
+h1 {
+    color: indigo;
+}
+
+h4 {
+    color: green;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .img-responsive {
     max-width: 100%;
     height: auto;
@@ -14,3 +32,14 @@
 .footer-item-flex {
     flex: 0 1 auto;
 }
+
+@media only screen and (min-width: 700px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+
+
+
+
